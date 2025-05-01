@@ -1,4 +1,4 @@
-# Pumping Lemma Tester
+# Pumping Lemma Tester -Demo
 
 A command-line C++ tool to experiment with the pumping lemma for regular languages. It parses symbolic patterns of the form `'a'^(expr)` (and optionally `'b'^(expr)` with two parameters `n` and `m`), generates strings, and tests whether the pumping lemma is violated for a user-specified number of splits.
 
